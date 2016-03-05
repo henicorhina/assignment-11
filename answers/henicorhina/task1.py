@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 
 """
-BIOL7800 assignment 10
-Oscar Johnson 28 February 2016
+BIOL7800 assignment 11
+Oscar Johnson 4 March 2016
 """
 
 import re
